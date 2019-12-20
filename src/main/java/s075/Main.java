@@ -7,5 +7,8 @@ public class Main {
 
 		System.out.println(poodle);
 		System.out.println(p2);
+
+		Poodle poodle3 = new Poodle("Philip", 5, 12);
+		System.out.println(poodle3);
 	}
 }
